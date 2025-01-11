@@ -120,14 +120,3 @@ For any issues or inquiries, feel free to contact the repository maintainer at [
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-### How to Use
-1. Save this content in a `README.md` file.
-2. Include it in the root directory of your project repository.
-3. Commit and push the changes to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md"
-   git push origin main
-
-This README.md is now ready for display on GitHub and provides a professional overview of the scripts and their functionality.
